@@ -42,6 +42,7 @@ except:
     print("transaction was successfully")
     conn.close()
 
+
 '''
 drop table
 conn = sqlite3.connect("c:/source/clean_flask/database.db")  
